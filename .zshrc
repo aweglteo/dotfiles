@@ -28,3 +28,6 @@ SAVEHIST=100000
 # 同時に起動したzshの間でヒストリを共有する
 setopt share_history
 
+
+# alias
+alias ls="ls -G"
